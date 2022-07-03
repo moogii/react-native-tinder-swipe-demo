@@ -13,7 +13,7 @@ yarn ios
 Android:
 ```
 yarn
-yarn ios
+yarn android
 ```
 ## Demo
 ___

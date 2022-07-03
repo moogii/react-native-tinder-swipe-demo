@@ -17,4 +17,4 @@ yarn ios
 ```
 ## Demo
 ___
-![swiping gif](https://raw.githubusercontent.com/moogii/react-native-tinder-swipe-demo/assets/example.gif)
+![swiping gif](https://raw.githubusercontent.com/moogii/react-native-tinder-swipe-demo/main/assets/example.gif)
